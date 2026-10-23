@@ -91,6 +91,16 @@ nav {
     padding: 20px;
     border-radius: 8px;
 }
+.project-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transform: translateY(-3px);
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #333;
+    color: white;
+}
 
 #contact form {
     display: flex;
