@@ -1,8 +1,23 @@
 # My Portfolio
-A personal portfolio website by Khalilah.
+A responsive personal portfolio website by Khalilah Jolaosho.
 
-## Technologies
-HTML, CSS, JavaScript
+## Description
+This is my personal portfolio showcasing my skills, projects, and experience as a developer.
 
-## Live Link
+## Built With
+- HTML5
+- CSS3
+- JavaScript
+
+## Features
+- Responsive design
+- Project showcase
+- Contact section
+
+## Live Demo
 Coming soon via GitHub Pages
+
+## Author
+Khalilah Jolaosho
+- GitHub: @Khalilah-Jolaosho
+- Email: khalilaholuwashindara@gmail.com
