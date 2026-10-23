@@ -123,7 +123,10 @@ footer {
     background: #f4f4f4;
     margin-top: 40px;
 }
-
+a:hover {
+  color: #007bff;
+  transition: 0.3s;
+}
 /* Mobile responsive */
 @media (max-width: 768px) {
   .nav-links {
