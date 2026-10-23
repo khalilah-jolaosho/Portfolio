@@ -21,3 +21,10 @@ Coming soon via GitHub Pages
 Khalilah Jolaosho
 - GitHub: @Khalilah-Jolaosho
 - Email: khalilaholuwashindara@gmail.com
+
+## Features
+- Responsive header and hero
+- About section with skills
+- Projects grid
+- Contact form
+- GitHub Pages ready

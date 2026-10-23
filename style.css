@@ -73,6 +73,54 @@ nav {
 .btn:hover {
   background: #0096b5;
 }
+#about, #projects, #contact {
+    padding: 60px 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.project-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+}
+.project-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transform: translateY(-3px);
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #333;
+    color: white;
+}
+
+#contact form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 500px;
+}
+
+#contact input, #contact textarea {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #f4f4f4;
+    margin-top: 40px;
+}
 
 /* Mobile responsive */
 @media (max-width: 768px) {
