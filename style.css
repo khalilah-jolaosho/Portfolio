@@ -8,6 +8,7 @@ html {
 }
 body {
   font-family: Arial, sans-serif;
+  font-family: 'Nunito', sans-serif;
 }
 
 header {
@@ -64,7 +65,7 @@ nav {
 
 .btn {
   display: inline-block;
-  background: #00d4ff;
+  background: #04788f;
   color: white;
   padding: 10px 25px;
   text-decoration: none;
@@ -73,7 +74,8 @@ nav {
 }
 
 .btn:hover {
-  background: #0096b5;
+  background: #111827;
+  opacity: 0.9;
 }
 #about, #projects, #contact {
     padding: 60px 20px;
