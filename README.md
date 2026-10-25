@@ -14,8 +14,12 @@ This is my personal portfolio showcasing my skills, projects, and experience as 
 - Project showcase
 - Contact section
 
+## Screenshot
+![Portfolio Screenshot](./Portfolio_screenshot.png)
+
 ## Live Demo
-Coming soon via GitHub Pages
+https://khalilah-jolaosho.github.io/Portfolio/
+
 
 ## Author
 Khalilah Jolaosho
